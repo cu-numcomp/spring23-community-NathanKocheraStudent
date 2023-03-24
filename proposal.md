@@ -10,7 +10,7 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
+| Repository URL |  https://github.com/NicolasHug/Surprise  |
 | Main/documentation website |    |
 | Year project was started |   |
 | Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
