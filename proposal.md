@@ -34,8 +34,10 @@ encountered a problem.
 
 - [x] I have installed the software
 - [ ] I have run at least one example
+    - I will run the example once the failed test cases have been debugged
 - [x] I have run the test suite
-- [x] The test suite passes
+- [ ] The test suite passes
+    - Most of the tests passes but some of them failed so I am working on debugging them. 
 
 ### Notes/concerns/risks
 
