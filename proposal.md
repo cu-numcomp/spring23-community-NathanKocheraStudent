@@ -22,10 +22,10 @@ Scipy is a python package that is meant to be used for math, science, and engine
 | Typical number of emails/comments per week? | 10  |
 | Typical number of commits per week? | 25 |
 | Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| How does the project accept contributions? | Code contributions accepted via pull-requests  |
+| Does the project have an automated test suite? | Yes |
+| Does the project use continuous integration? | Yes |
+| Are any legal/licensing steps required to contribute? | No |
 
 ### Install and run
 
