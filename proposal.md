@@ -16,7 +16,7 @@ Scipy is a python package that is meant to be used for math, science, and engine
 | Main/documentation website | https://docs.scipy.org/doc/scipy/   |
 | Year project was started |  2008 |
 | Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Number of contributors in the lifetime of the project | 1925  |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
 | Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
 | Typical number of emails/comments per week? |   |
