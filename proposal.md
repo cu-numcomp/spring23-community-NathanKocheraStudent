@@ -15,13 +15,13 @@ Scipy is a python package that is meant to be used for math, science, and engine
 | Repository URL | https://github.com/scipy/scipy  |
 | Main/documentation website | https://docs.scipy.org/doc/scipy/   |
 | Year project was started |  2008 |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
+| Number of contributors in the past year | 289 |
 | Number of contributors in the lifetime of the project | 1925  |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
+| Number of distinct affiliations | >100 |
 | Where do development discussions take place? | Development discussions take place in github comments and via the mailing list (https://mail.python.org/mailman3/lists/scipy-dev.python.org/)  |
 | Typical number of emails/comments per week? | 10  |
 | Typical number of commits per week? | 25 |
-| Typical commit size | `git log --shortstat` may be useful |
+| Typical commit size | Typical commits edit a few files at a time |
 | How does the project accept contributions? | Code contributions accepted via pull-requests  |
 | Does the project have an automated test suite? | Yes |
 | Does the project use continuous integration? | Yes |
@@ -48,7 +48,7 @@ the project requires a contributor license agreement or other
 procedural steps, please explain here.  "None at this time" is
 acceptable for this question.
 
-None at this time.
+The only concern I have is getting the development environment set up correctly so all the test cases pass.
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
