@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: scikit-learn
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
@@ -10,7 +10,7 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |  https://github.com/NicolasHug/Surprise  |
+| Repository URL |  [https://github.com/NicolasHug/Surprise](https://github.com/scikit-learn/scikit-learn)  |
 | Main/documentation website |    |
 | Year project was started |   |
 | Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
