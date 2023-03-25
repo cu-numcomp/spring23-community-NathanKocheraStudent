@@ -46,6 +46,8 @@ the project requires a contributor license agreement or other
 procedural steps, please explain here.  "None at this time" is
 acceptable for this question.
 
+None at this time.
+
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
 course, so you are authorized to sign a [contributor license
