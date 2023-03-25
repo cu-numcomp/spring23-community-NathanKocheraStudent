@@ -6,6 +6,8 @@ Please edit this file and push to your repository.
 *Write a paragraph describing what the software does and who its
 primary audience is.*
 
+Scipy is a python package that is meant to be used for math, science, and engineering. The primary audience of scipy is engineers and scientists who utilize python in their workflow. Scipy provides many different modules that can be used for statistics, optimization, integration, linear algrebra, and more. 
+
 ### Stats
 
 | Description | Your answer |
