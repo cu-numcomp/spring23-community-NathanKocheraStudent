@@ -18,9 +18,9 @@ Scipy is a python package that is meant to be used for math, science, and engine
 | Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
 | Number of contributors in the lifetime of the project | 1925  |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
+| Where do development discussions take place? | Development discussions take place in github comments and via the mailing list (https://mail.python.org/mailman3/lists/scipy-dev.python.org/)  |
+| Typical number of emails/comments per week? | 10  |
+| Typical number of commits per week? | 25 |
 | Typical commit size | `git log --shortstat` may be useful |
 | How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
 | Does the project have an automated test suite? | yes/no |
