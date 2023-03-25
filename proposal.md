@@ -11,8 +11,8 @@ primary audience is.*
 | Description | Your answer |
 |---------|-----------|
 | Repository URL | https://github.com/scipy/scipy  |
-| Main/documentation website |    |
-| Year project was started |   |
+| Main/documentation website | https://docs.scipy.org/doc/scipy/   |
+| Year project was started |  2008 |
 | Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
 | Number of contributors in the lifetime of the project |   |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
