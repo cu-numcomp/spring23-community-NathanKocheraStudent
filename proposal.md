@@ -33,11 +33,9 @@ Check the following boxes when complete or add a note below if you
 encountered a problem.
 
 - [x] I have installed the software
-- [ ] I have run at least one example
-    - I will run the example once the failed test cases have been debugged
+- [x] I have run at least one example
 - [x] I have run the test suite
-- [ ] The test suite passes
-    - Most of the tests passes but some of them failed so I am working on debugging them. 
+- [x] The test suite passes
 
 ### Notes/concerns/risks
 
